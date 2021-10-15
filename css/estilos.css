@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #f2f2f2;
+}
+img {
+	margin-top: 12px;
+	margin-left: 12px;
+}
+header.cabecera{
+	color: #FBFBFB;
+	font-size: 16px;
+	background: #0C3974;
+	height: 100%
+	width: 1000%;
+
+}
+
+header.cabecera h1{
+	padding: 1em 1em;
+}
+
+
+
+.articulo {
+	font-size: 22px;
+}
+
+nav.menupricipal{
+	margin-left: 50px;
+	font-size: 1000000px;
+	width: 90%;
+	margin: 0 auto;
+	background: #999;
+}
+
+footer{
+	font-size: 20px;
+	width: 90%;
+	background: #999;
+}
+
+
